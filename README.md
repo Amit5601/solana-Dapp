@@ -45,6 +45,9 @@ Once deployed, the app will be available here:
 ```bash
 git clone https://github.com/Amit5601/solana-Dapp.git
 cd solana-Dapp
+npm install
+npm run dev
+Then open your browser and visit 👉 http://localhost:3000
 
 ## 💡 How It Works  
 
