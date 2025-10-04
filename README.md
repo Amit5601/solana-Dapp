@@ -12,8 +12,7 @@ Built as part of the **100xSchool × Superteam Solana Hackathon** 🚀
 
 ## 🌐 Live Demo  
 Once deployed, the app will be available here:  
-👉 [https://solana-dapp.vercel.app](https://solana-dapp.vercel.app)  
-
+👉 [https://solana-dapp-coral.vercel.app/](https://solana-dapp-coral.vercel.app/)
 *(If you’re running locally, see instructions below.)*
 
 ---
