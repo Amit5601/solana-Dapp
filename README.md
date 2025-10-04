@@ -43,4 +43,5 @@ Once deployed, the app will be available here:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clo
+git clone https://github.com/Amit5601/solana-Dapp.git
+cd solana-Dapp
