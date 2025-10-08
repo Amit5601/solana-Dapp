@@ -18,12 +18,12 @@ Once deployed, the app will be available here:
 ---
 
 ## ⚡ Features  
-- 🔗 Connect Solana wallets (Phantom, Solflare)  
-- 💰 Fetch and display wallet balance  
-- 📜 View recent transaction history  
-- 🧠 Built with React hooks and Solana web3.js  
-- 💅 built with TailwindCSS for a clean, fast, and focused user experience.”
-- ☁️ Deployed via Vercel  
+- 🔗 Connect Solana wallets.  
+- 💰 Fetch and display wallet balance.
+- 📜 View recent transaction history. 
+- 🧠 Built with React hooks and Solana web3.js.
+- 💅 built with TailwindCSS for a clean, fast, and focused user experience.
+- ☁️ Deployed via Vercel.  
 
 ---
 
@@ -46,7 +46,7 @@ git clone https://github.com/Amit5601/solana-Dapp.git
 cd solana-Dapp
 npm install
 npm run dev
-Then open your browser and visit 👉 [http://localhost:3000](http://localhost:3000)
+Then open your browser and visit 👉 [http://localhost:3000]
 
 ---
 
