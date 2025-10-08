@@ -22,7 +22,7 @@ Once deployed, the app will be available here:
 - 💰 Fetch and display wallet balance  
 - 📜 View recent transaction history  
 - 🧠 Built with React hooks and Solana web3.js  
-- 💅 Styled using Tailwind CSS  
+- 💅 built with TailwindCSS for a clean, fast, and focused user experience.”
 - ☁️ Deployed via Vercel  
 
 ---
