@@ -4,7 +4,7 @@ A simple, lightweight dApp built with **Next.js** and **Solana Web3.js**, allowi
 - Connect their Solana wallet  
 - View wallet balance  
 - Check recent transactions  
-- Switch between Mainnet, Devnet, and Testnet  
+- Switch between Mainnet, Devnet.
 
 Built as part of the **100xSchool × Superteam Solana Hackathon** 🚀  
 
@@ -12,7 +12,7 @@ Built as part of the **100xSchool × Superteam Solana Hackathon** 🚀
 
 ## 🌐 Live Demo  
 Once deployed, the app will be available here:  
-👉 [https://solana-dapp-coral.vercel.app/](https://solana-dapp-coral.vercel.app/)
+👉 [https://solana-dapp-coral.vercel.app/] 
 *(If you’re running locally, see instructions below.)*
 
 ---
@@ -53,7 +53,7 @@ Then open your browser and visit 👉 [http://localhost:3000]
 ## 💡 How It Works  
 
 🔹 **Step 1:** User connects wallet → Phantom/Solflare adapter authenticates the wallet.  
-🔹 **Step 2:** `@solana/web3.js` connects to the chosen network (**Mainnet**, **Devnet**, or **Testnet**).  
+🔹 **Step 2:** `@solana/web3.js` connects to the chosen network (**Mainnet**, **Devnet**).  
 🔹 **Step 3:** The dApp fetches the wallet’s balance and transaction history.  
 🔹 **Step 4:** Data is displayed dynamically using React hooks and state.  
 
